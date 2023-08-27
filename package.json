@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "git": "^0.1.5",
+    "leaflet": "^1.9.4",
+    "parcel": "^2.9.3"
+  },
+  "name": "mapty",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
